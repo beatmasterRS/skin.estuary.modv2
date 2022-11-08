@@ -168,6 +168,7 @@
                     <texturefocus colordiffuse="$VAR[SkinColorVar]">lists/focus.png</texturefocus>
                     <texturenofocus />
                 </control>
+                <!-- Trailer Button für MyVideoNav -->
                 <control type="button" id="1100">
                     <width>510</width>
                     <height>65</height>
